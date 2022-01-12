@@ -19,7 +19,7 @@ namespace Microsoft.Azure.Commands.OperationalInsights.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -107,7 +107,7 @@ namespace Microsoft.Azure.Commands.OperationalInsights.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to A dataSource with name &apos;{0}&apos; in workspace &apos;{1}&apos; exists. 
-        ///Continuing execution may overwrite the exisiting one. 
+        ///Continuing execution may overwrite the existing one. 
         ///Are you sure you want to continue?.
         /// </summary>
         internal static string DataSourceExists {
@@ -256,7 +256,7 @@ namespace Microsoft.Azure.Commands.OperationalInsights.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to A saved search with the id &apos;{0}&apos; in workspace &apos;{1}&apos; exists. 
-        ///Continuing execution may overwrite the exisiting one. 
+        ///Continuing execution may overwrite the existing one. 
         ///Are you sure you want to continue?.
         /// </summary>
         internal static string SavedSearchExists {
@@ -339,7 +339,7 @@ namespace Microsoft.Azure.Commands.OperationalInsights.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to A storage insight with name &apos;{0}&apos; in workspace &apos;{1}&apos; exists. 
-        ///Continuing execution may overwrite the exisiting one. 
+        ///Continuing execution may overwrite the existing one. 
         ///Are you sure you want to continue?.
         /// </summary>
         internal static string StorageInsightExists {
@@ -395,7 +395,7 @@ namespace Microsoft.Azure.Commands.OperationalInsights.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to A workspace with name &apos;{0}&apos; in resource group &apos;{1}&apos; exists. 
-        ///Continuing execution may overwrite the exisiting one. 
+        ///Continuing execution may overwrite the existing one. 
         ///Are you sure you want to continue?.
         /// </summary>
         internal static string WorkspaceExists {
